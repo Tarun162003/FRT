@@ -4,9 +4,9 @@ This is a web based application developed for health related website in India.
 
 ### This web based application has been developed for the applications of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime,Quess ,Github and Ey.
 
-** Project Link**-https://nice-ground-03ee6e100.3.azurestaticapps.net  or it can be accessed by using https://gsvk1729.github.io/FRT-Project/
+** Project Link**-https://agreeable-pebble-08856a300.3.azurestaticapps.net  or it can be accessed by using 
 
-** Project demo video link**-https://youtu.be/RUVISzjdWdI
+** Project demo video link**-
 
 ## Azure technologies used for Project 
 - Static web apps
